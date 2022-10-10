@@ -3,8 +3,8 @@
 </p>
 
 ## Github Stats
-<p align="center"><img src="[https://github-readme-stats.vercel.app/api?username=Parasbramhankar
-&show_icons=true&count_private=true&bg_color=00000000&text_color=777](https://github-readme-stats.vercel.app/api?username=Parasbramhankar&show_icons=true&count_private=true&bg_color=00000000&text_color=777)" alt="Parasbramhankar
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Parasbramhankar
+&show_icons=true&count_private=true&bg_color=00000000&text_color=777" alt="Parasbramhankar
 "/>
 </p>
 
@@ -21,4 +21,3 @@
   <p align="center">
 <img src ="https://komarev.com/ghpvc/?username=Parasbramhankar&style=flat-square&color=red">
 </p>
-  
